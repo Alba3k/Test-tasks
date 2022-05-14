@@ -24,7 +24,7 @@
 
 ### Пример входных данных:
 
-```
+```python
 students_avg_scores = {
 'Max': 4.964, 'Eric': 4.962, 'Peter': 4.923, 
 'Mark': 4.957, 'Julie': 4.95, 'Jimmy': 4.973, 
