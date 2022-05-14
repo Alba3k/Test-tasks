@@ -1,8 +1,8 @@
 # Test-tasks.
 ## Тестовые задачи и решение.
 
-![GitHub](https://img.shields.io/github/license/Alba3k/Test-tasks?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/Alba3k-Test--tasks-brightgreen?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/Alba3k/Test-tasks?style=for-the-badge)
 
 ## Task_01. Гордость университета :classical_building:
 
