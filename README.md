@@ -4,6 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+![GitHub](https://img.shields.io/github/license/Alba3k/Test-tasks?style=for-the-badge)
 
 ## Task_01. Гордость университета :classical_building:
 
