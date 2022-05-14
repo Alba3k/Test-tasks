@@ -1,8 +1,5 @@
-> [!TIP]
-> Test-tasks. Тестовые задачи и решение.
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# Test-tasks.
+## Тестовые задачи и решение.
 
 ![GitHub](https://img.shields.io/github/license/Alba3k/Test-tasks?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/Alba3k-Test--tasks-brightgreen)
