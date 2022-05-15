@@ -5,6 +5,29 @@
 ![GitHub](https://img.shields.io/github/license/Alba3k/Test-tasks?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alba3k/Test-tasks?style=for-the-badge)
 
+<!-- badges -->
+<div align="center">
+
+# Awesome Django [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> The Best and awesome Django resource for packages.
+
+<img src="https://cdn-images-1.medium.com/max/1200/1*nC94XZXcbKJQVF1vhj30nQ.png" align="absmiddle"/> 
+
+[![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/shahraizali/awesome-django) ![license](https://img.shields.io/github/license/rosarior/awesome-django.svg)
+</div>
+
+A curated list of awesome Django apps, projects and resources.
+
+*Q: What is an awesome Django package?*
+
+**A: An awesome package is one that is mature (not recently released), is well
+maintained, has a good amount of users, has good documentation, follows the best
+practices, and which latest release is less than 1 year old. Awesome Django packages
+and projects are the ones that inspire and serve as examples.**
+
+Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
+
+
 ## Task_01. Гордость университета :classical_building:
 
 - У студентов-программистов шел последний год обучения, и близилась выдача дипломов. 
