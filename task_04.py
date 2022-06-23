@@ -43,7 +43,7 @@ def find_top_20(candidates):
 
     candidates_scores = list(zip(cand_list, score_list, info_scores, math_scores))
 
-    candidates_scores = sorted(candidates_scores, key=itemgetter(1,2,3), reverse=True)[0:20]
+    candidates_scores = sorted(candidates_scores, key=itemgetter(1,2,3), reverse=False)[0:20]
 
     return candidates_scores
     # проверка результата
